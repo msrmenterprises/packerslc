@@ -3,7 +3,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="index" class="logo">
-                            Max Lambda Global
+                            Packerslc Global
                         </a>
                         <p>Operations in Mauritius, Cote D'Voir, Ghana, Nigeria, Namibia
 
@@ -14,10 +14,10 @@
                         <p>Procurement office - UK, USA & Dubai
 
                         </p>
-                        <p>info@max-lambda.com </p>
+                        <p>info@packerslc.com </p>
                         <p>+233-544057517 | +233-553019058</p>
                         <!-- <div class="company-email">
-                            <a href="info@max-lambda.com">info@max-lambda.com</a> | <a href="info@max-lambda.com">info@max-lambda.com</a>
+                            <a href="info@packerslc.com">info@packerslc.com</a> | <a href="info@packerslc.com">info@packerslc.com</a>
 
 
                         </div> -->

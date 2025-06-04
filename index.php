@@ -63,7 +63,7 @@
                 <div class="header-inner-box">
                     <!-- Logo -->
                     <div class="logo">
-                        <a class="navbar-brand" href="index.html">Max Lambda</a>
+                        <a class="navbar-brand" href="index.html">Packerslc</a>
                     </div>
                     <!-- Main Menu  -->
                     <div class="main-menu d-none d-lg-block">
@@ -79,7 +79,7 @@
 -->
 
 <div id="google_translate_element"></div>
-<script>
+<!-- <script>
     function googleTranslateElementInit() {
         new google.translate.TranslateElement({
             pageLanguage: 'Select Language', 
@@ -91,7 +91,7 @@
         a.dispatchEvent(new Event('change'));
     }
 </script>
-<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> -->
 
                         <!-- <a class="navlink1" href="/fr">Switch to French</a>  -->
                         <!-- <select class="form-select" aria-label="Default select example">
@@ -116,7 +116,7 @@
                                 <?php include('utils/mobileMenu.php') ?>
                                 </nav>
                                 <div class="action-bar">
-                                    <a href="mailto:info@Max Lambda.net"><i class="las la-envelope"></i>info@max-lambda.com</a>
+                                    <a href="mailto:info@Packerslc.net"><i class="las la-envelope"></i>info@packerslc.com</a>
                                     <a href="tel:+233-544057517"><i class="fal fa-phone"></i>+233-544057517</a>
                                     <a href="contact" class="theme-btn">Contact Us</a>
                                 </div>
@@ -196,7 +196,7 @@ Excellence
                         <h2>About Us</h2>
                     </div>
                     <p>Supply & Services in Oil & Gas (offshore & onshore), Power plants & mining. </p>
-                    <p>Max Lambda is a multinational organization with its Holding Company in
+                    <p>Packerslc is a multinational organization with its Holding Company in
                         Mauritius, and its operations in Ghana, Nigeria (JV: EVERATI) and Cote D’Ivoire
                         (JV: PS-Max CI).</p>
                     <p>We have ambitions of serving other territories In Sub-Saharan Africa. 
@@ -210,7 +210,7 @@ Excellence
                             <ul>
                                 
                                 
-                                <li>Max Lambda is headquarter in Ghana</li>
+                                <li>Packerslc is headquarter in Ghana</li>
                                 <li>With valid Petroleum Commission License since last 6 year</li>
                                 <li>Operations in Ghana and Nigeria</li>
                                 <li>OEM Representation and partnerships for products and services</li>
@@ -908,7 +908,7 @@ Excellence
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="index.html" class="logo">
-                            Max Lambda Global
+                            Packerslc Global
                         </a>
                         <p>Headquartered in Mauritius with Operations in Ghana , Cote D'Ivoire
 
@@ -919,7 +919,7 @@ Excellence
                         <p>Ghana - Abelemkpe, Accra</p>
                         <p>Cote D'Ivoire - Treichville, Abidjan</p>
                         <p>Nigeria - VI, Lagos</p>
-                        <p>info@Max-Lambda.com</p>
+                        <p>info@packerslc.com</p>
                        
                        
                       
@@ -961,7 +961,7 @@ Excellence
         <div class="container">
             <div class="row justify-content-center align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <p class="copyright-line">© 2024 Max Lambda. All rights reserved.</p>
+                    <p class="copyright-line">© 2024 Packerslc. All rights reserved.</p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12 text-md-end d-none">
                     <p class="privacy">Privacy Policy | Terms &amp; Conditions</p>

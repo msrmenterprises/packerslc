@@ -271,10 +271,10 @@
                         <p>Procurement office - UK, USA & Dubai
 
                         </p>
-                        <p>info@Max Lamda.net | info@max-lambda.com</p>
+                        <p>info@Max Lamda.net | info@packerslc.com</p>
                         <p>+233-544057517  | +233-544057517 | +233-553019058</p>
                         <!-- <div class="company-email">
-                            <a href="info@Max Lamda.net">info@Max Lamda.net</a> | <a href="info@max-lambda.com">info@max-lambda.com</a>
+                            <a href="info@Max Lamda.net">info@Max Lamda.net</a> | <a href="info@packerslc.com">info@packerslc.com</a>
 
 
                         </div> -->
