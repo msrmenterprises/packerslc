@@ -145,7 +145,7 @@
                         <div class="contact-icon">
                             <img src="images/2.png" alt="">
                         </div>
-                        <p>INFO@MAX-LAMDA.COM </p>                        
+                        <p>INFO@PACKERSLC.COM </p>                        
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-12">
