@@ -14,10 +14,10 @@
                         <p>Procurement office - UK, USA & Dubai
 
                         </p>
-                        <p>sales@Packers LC.com </p>
+                        <p>sales@packerslc.com </p>
                         <p>7033464258 | +233-553019058</p>
                         <!-- <div class="company-email">
-                            <a href="sales@Packers LC.com">sales@Packers LC.com</a> | <a href="sales@Packers LC.com">sales@Packers LC.com</a>
+                            <a href="sales@packerslc.com">sales@packerslc.com</a> | <a href="sales@packerslc.com">sales@packerslc.com</a>
 
 
                         </div> -->

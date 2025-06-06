@@ -113,7 +113,7 @@
                                 <?php include('utils/mobileMenu.php') ?>
                                 </nav>
                                 <div class="action-bar">
-                                    <a href="mailto:sales@Packers LC.com"><i class="las la-envelope"></i>sales@Packers LC.com</a>
+                                    <a href="mailto:sales@packerslc.com"><i class="las la-envelope"></i>sales@packerslc.com</a>
                                     <a href="tel:123-456-7890"><i class="fal fa-phone"></i>123-456-7890</a>
                                     <a href="contact" class="theme-btn">Contact Us</a>
                                 </div>

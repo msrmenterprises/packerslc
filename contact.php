@@ -91,7 +91,7 @@
                                 </button>
                                 <?php include('utils/mobileMenu.php') ?>
                                 <div class="action-bar">
-                                    <a href="mailto:sales@Packers LC.com"><i class="las la-envelope"></i>sales@Packers LC.com</a> 
+                                    <a href="mailto:sales@packerslc.com"><i class="las la-envelope"></i>sales@packerslc.com</a> 
                                     <a href="tel:7033464258"><i class="fal fa-phone"></i>7033464258</a>
                                     <a href="contact" class="theme-btn">Contact Us</a>
                                 </div>
@@ -145,7 +145,7 @@
                         <div class="contact-icon">
                             <img src="images/2.png" alt="">
                         </div>
-                        <p>sales@Packers LC.com</p>                        
+                        <p>sales@packerslc.com</p>                        
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-12">
