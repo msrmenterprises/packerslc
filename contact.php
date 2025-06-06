@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
-    <title>Packerslc Safety</title>
+    <title>Packers LC Safety</title>
 
     <!--Favicon-->
     <link rel="icon" href="img/favicon.png" type="image/png">
@@ -60,7 +60,7 @@
                 <div class="header-inner-box">
                     <!-- Logo -->
                     <div class="logo">
-                        <a class="navbar-brand" href="index">Packerslc</a>
+                        <a class="navbar-brand" href="index">Packers LC</a>
                     </div>
                     <!-- Main Menu  -->
                     <div class="main-menu d-none d-lg-block">
@@ -91,8 +91,8 @@
                                 </button>
                                 <?php include('utils/mobileMenu.php') ?>
                                 <div class="action-bar">
-                                    <a href="mailto:info@packerslc.com"><i class="las la-envelope"></i>info@packerslc.com</a> | <a href="mailto:info@packerslc.com"><i class="las la-envelope"></i>info@packerslc.com</a>
-                                    <a href="tel:+233-544057517"><i class="fal fa-phone"></i>+233-544057517</a>
+                                    <a href="mailto:sales@Packers LC.com"><i class="las la-envelope"></i>sales@Packers LC.com</a> 
+                                    <a href="tel:7033464258"><i class="fal fa-phone"></i>7033464258</a>
                                     <a href="contact" class="theme-btn">Contact Us</a>
                                 </div>
                             </div>
@@ -145,7 +145,7 @@
                         <div class="contact-icon">
                             <img src="images/2.png" alt="">
                         </div>
-                        <p>INFO@PACKERSLC.COM </p>                        
+                        <p>sales@Packers LC.com</p>                        
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-12">
@@ -153,7 +153,7 @@
                         <div class="contact-icon">
                             <img src="images/3.png" alt="">
                         </div>
-                        <p>+233-544057517<br/>+233-553019058</p>                                                
+                        <p>703 346 4658</p>                                                
                     </div>
                 </div>
             </div>
@@ -192,7 +192,7 @@
         <div class="container">
             <div class="row justify-content-center align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <p class="copyright-line">© 2024 Packerslc. All rights reserved.</p>
+                    <p class="copyright-line">© 2024 Packers LC. All rights reserved.</p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12 text-md-end d-none">
                     <p class="privacy">Privacy Policy | Terms &amp; Conditions</p>

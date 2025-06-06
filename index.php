@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
-    <title>Packerslc
+    <title>Packers LC
 </title>
 
     <!--Favicon-->
@@ -63,7 +63,7 @@
                 <div class="header-inner-box">
                     <!-- Logo -->
                     <div class="logo">
-                        <a class="navbar-brand" href="index.html">Packerslc</a>
+                        <a class="navbar-brand" href="index.html">Packers LC</a>
                     </div>
                     <!-- Main Menu  -->
                     <div class="main-menu d-none d-lg-block">
@@ -116,8 +116,8 @@
                                 <?php include('utils/mobileMenu.php') ?>
                                 </nav>
                                 <div class="action-bar">
-                                    <a href="mailto:info@Packerslc.net"><i class="las la-envelope"></i>info@packerslc.com</a>
-                                    <a href="tel:+233-544057517"><i class="fal fa-phone"></i>+233-544057517</a>
+                                    <a href="mailto:info@Packers LC.net"><i class="las la-envelope"></i>sales@Packers LC.com</a>
+                                    <a href="tel:7033464258"><i class="fal fa-phone"></i>7033464258</a>
                                     <a href="contact" class="theme-btn">Contact Us</a>
                                 </div>
                             </div>
@@ -195,24 +195,18 @@ Excellence
                         
                         <h2>About Us</h2>
                     </div>
-                    <p>Supply & Services in Oil & Gas (offshore & onshore), Power plants & mining. </p>
-                    <p>Packerslc is a multinational organization with its Holding Company in
-                        Mauritius, and its operations in Ghana, Nigeria (JV: EVERATI) and Cote D’Ivoire
-                        (JV: PS-Max CI).</p>
-                    <p>We have ambitions of serving other territories In Sub-Saharan Africa. 
-                        We have built a culture of thought-leadership, commitment and service, with
-                         supply and services in Energy sector (O&G, Electricity and Mining)</p>
-                    <p>We believe in active leadership, commitment and delivering excellence
-                        through the entire value chain. We fully embrace the responsibility to foster
-                        close relationships with all our clients and partners </p>
+                    <p>Packers LC is a multinational organization that serves Oil & Gas (offshore & onshore), Power plants & mining clients in West Africa and North America</p>
+                    <p>We have built a culture of thought leadership, commitment and service, with supply and services in the Energy sector (O&G, Electricity and Mining)</p>
+                    <p>We believe in active leadership, commitment and delivering excellence through the entire value chain. We fully embrace the responsibility of fostering close relationships with all our clients and partners</p>
+                    
 
 <div class="about-feature">
                             <ul>
                                 
                                 
-                                <li>Packerslc is headquarter in Ghana</li>
-                                <li>With valid Petroleum Commission License since last 6 year</li>
-                                <li>Operations in Ghana and Nigeria</li>
+                                <li>Packers LC is headquartered in Virginia with sister company in Ghana</li>
+                                <li>With valid Petroleum Commission License for the last 6 years</li>
+                                <li>Operations in Ghana, US and the UK</li>
                                 <li>OEM Representation and partnerships for products and services</li>
                                 <li>Sourcing desk in UK, USA, Dubai and India</li>
                             </ul>
@@ -908,7 +902,7 @@ Excellence
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="index.html" class="logo">
-                            Packerslc Global
+                            Packers LC Global
                         </a>
                         <p>Headquartered in Mauritius with Operations in Ghana , Cote D'Ivoire
 
@@ -919,7 +913,7 @@ Excellence
                         <p>Ghana - Abelemkpe, Accra</p>
                         <p>Cote D'Ivoire - Treichville, Abidjan</p>
                         <p>Nigeria - VI, Lagos</p>
-                        <p>info@packerslc.com</p>
+                        <p>sales@Packers LC.com</p>
                        
                        
                       
@@ -961,7 +955,7 @@ Excellence
         <div class="container">
             <div class="row justify-content-center align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <p class="copyright-line">© 2024 Packerslc. All rights reserved.</p>
+                    <p class="copyright-line">© 2024 Packers LC. All rights reserved.</p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12 text-md-end d-none">
                     <p class="privacy">Privacy Policy | Terms &amp; Conditions</p>

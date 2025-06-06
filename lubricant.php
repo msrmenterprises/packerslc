@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Packerslc - Lubricants</title>
+    <title>Packers LC - Lubricants</title>
     <!-- Favicon -->
     <link rel="icon" href="img/favicon.png" type="image/png">
     <!-- Bootstrap CSS -->
@@ -30,7 +30,7 @@
         <div class="navigation">
             <div class="container">
                 <div class="header-inner-box">
-                    <div class="logo"><a class="navbar-brand" href="index.html">Packerslc</a></div>
+                    <div class="logo"><a class="navbar-brand" href="index.html">Packers LC</a></div>
                     <div class="main-menu d-none d-lg-block">
                         <?php include('utils/menu.php') ?>
                     </div>
@@ -121,7 +121,7 @@
     <div class="container">
         <div class="row justify-content-center align-items-center justify-content-center">
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <p class="copyright-line">© 2024 Packerslc. All rights reserved.</p>
+                <p class="copyright-line">© 2024 Packers LC. All rights reserved.</p>
             </div>
         </div>
     </div>
