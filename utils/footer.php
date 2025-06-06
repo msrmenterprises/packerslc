@@ -15,7 +15,7 @@
 
                         </p>
                         <p>sales@packerslc.com </p>
-                        <p>7033464258 | +233-553019058</p>
+                        <p>7033464258</p>
                         <!-- <div class="company-email">
                             <a href="sales@packerslc.com">sales@packerslc.com</a> | <a href="sales@packerslc.com">sales@packerslc.com</a>
 
