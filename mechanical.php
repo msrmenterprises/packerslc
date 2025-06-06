@@ -75,7 +75,7 @@
   Settings located at line 9, current script will translate english to estonian
 -->
 
-<div id="google_translate_element"></div>
+<!-- <div id="google_translate_element"></div>
 <script>
     function googleTranslateElementInit() {
         new google.translate.TranslateElement({
@@ -88,7 +88,7 @@
         a.dispatchEvent(new Event('change'));
     }
 </script>
-<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> -->
 
                         <!-- <a class="navlink1" href="/fr">Switch to French</a>  -->
                         <!-- <select class="form-select" aria-label="Default select example">
