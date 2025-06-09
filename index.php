@@ -63,7 +63,7 @@
                 <div class="header-inner-box">
                     <!-- Logo -->
                     <div class="logo">
-                        <a class="navbar-brand" href="index.html">Packers LC</a>
+                        <a class="navbar-brand" href="index">Packers LC</a>
                     </div>
                     <!-- Main Menu  -->
                     <div class="main-menu d-none d-lg-block">
@@ -886,7 +886,7 @@ Excellence
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 text-md-end">
                     <div class="cta-btn">
-                        <a href="contact.php" class="white-btn">Contact Us</a>
+                        <a href="contact" class="white-btn">Contact Us</a>
                     </div>
                 </div>
             </div>
