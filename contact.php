@@ -137,7 +137,7 @@
                         <div class="contact-icon">
                             <img src="images/1.png" alt="">
                         </div>
-                        <p>Challenge House, Swaniker Street 52, Abelemkpe Accra, Ghana</p>
+                        <p>24835 Prairie Grass Dr Aldie VA 20105</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-12">

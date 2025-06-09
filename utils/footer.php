@@ -5,7 +5,7 @@
                         <a href="index" class="logo">
                             Packers LC Global
                         </a>
-                        <p>Operations in Mauritius, Cote D'Voir, Ghana, Nigeria, Namibia
+                        <p>Operations in Mauritius, Cote D'Voir, Nigeria, Namibia
 
                         </p>
                     </div>
@@ -26,7 +26,7 @@
                         </div> -->
 
                     </div>
-                    <div class="col-lg-2 offset-lg-1 col-md-6 com-sm-12 d-none">
+                    <!-- <div class="col-lg-2 offset-lg-1 col-md-6 com-sm-12 d-none">
                         <h5>Links</h5>
                         <ul>
                             <li>
@@ -37,8 +37,8 @@
                                <a href="price.html">Contact Us</a>
                             </li>
                         </ul>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12 d-none">
+                    </div> -->
+                    <!-- <div class="col-lg-3 col-md-6 col-sm-12 d-none">
                         <h5>Get in Touch</h5>
                         <ul>
                             <li>
@@ -50,7 +50,7 @@
                                 </div>
                             </li>
                         </ul>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
