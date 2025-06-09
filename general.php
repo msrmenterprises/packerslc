@@ -114,7 +114,7 @@
                                 </nav>
                                 <div class="action-bar">
                                     <a href="mailto:sales@packerslc.com"><i class="las la-envelope"></i>sales@packerslc.com</a>
-                                    <a href="tel:123-456-7890"><i class="fal fa-phone"></i>123-456-7890</a>
+                                    <a href="tel:7033464258"><i class="fal fa-phone"></i>7033464258</a>
                                     <a href="contact" class="theme-btn">Contact Us</a>
                                 </div>
                             </div>

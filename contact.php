@@ -153,7 +153,7 @@
                         <div class="contact-icon">
                             <img src="images/3.png" alt="">
                         </div>
-                        <p>703 346 4658</p>                                                
+                        <p>7033464258</p>                                                
                     </div>
                 </div>
             </div>

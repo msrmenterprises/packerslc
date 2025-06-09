@@ -918,7 +918,7 @@ Excellence
                        
                       
                     </div>
-                    <div class="col-lg-2 offset-lg-1 col-md-6 com-sm-12 d-none">
+                    <!--<div class="col-lg-2 offset-lg-1 col-md-6 com-sm-12 d-none">
                         <h5>Links</h5>
                         <ul>
                             <li>
@@ -942,7 +942,7 @@ Excellence
                                 </div>
                             </li>
                         </ul>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>

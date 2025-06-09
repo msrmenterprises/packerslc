@@ -111,8 +111,8 @@
                                 </button>
                                 <?php include('utils/mobileMenu.php') ?>
                                 <div class="action-bar">
-                                    <a href="mailto:info@Max Lamda.net"><i class="las la-envelope"></i>info@Max Lamda.net</a>
-                                    <a href="tel:123-456-7890"><i class="fal fa-phone"></i>123-456-7890</a>
+                                    <a href="mailto:sales@packerslc.com"><i class="las la-envelope"></i>sales@packerslc.com</a>
+                                    <a href="tel:7033464258"><i class="fal fa-phone"></i>7033464258</a>
                                     <a href="contact.html" class="theme-btn">Contact Us</a>
                                 </div>
                             </div>
@@ -271,10 +271,10 @@
                         <p>Procurement office - UK, USA & Dubai
 
                         </p>
-                        <p>info@Max Lamda.net | sales@packerslc.com</p>
-                        <p>7033464258  | 7033464258 | +233-553019058</p>
+                        <p>sales@packerslc.com</p>
+                        <p>7033464258</p>
                         <!-- <div class="company-email">
-                            <a href="info@Max Lamda.net">info@Max Lamda.net</a> | <a href="sales@packerslc.com">sales@packerslc.com</a>
+                            <a href="sales@packerslc.com">sales@packerslc.com</a> | <a href="sales@packerslc.com">sales@packerslc.com</a>
 
 
                         </div> -->
@@ -283,7 +283,7 @@
                         </div> -->
 
                     </div>
-                    <div class="col-lg-2 offset-lg-1 col-md-6 com-sm-12 d-none">
+                    <!--<div class="col-lg-2 offset-lg-1 col-md-6 com-sm-12 d-none">
                         <h5>Links</h5>
                         <ul>
                             <li>
@@ -307,7 +307,7 @@
                                 </div>
                             </li>
                         </ul>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
