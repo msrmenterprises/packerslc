@@ -886,7 +886,7 @@ Excellence
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 text-md-end">
                     <div class="cta-btn">
-                        <a href="contact.html" class="white-btn">Contact Us</a>
+                        <a href="contact.php" class="white-btn">Contact Us</a>
                     </div>
                 </div>
             </div>
