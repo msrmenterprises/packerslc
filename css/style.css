@@ -1997,6 +1997,8 @@ input[type=search]::-webkit-search-results-decoration {
   margin-top: 40px;
 }
 
+/* logo-brand styles removed - using transparent PNG directly */
+
 #home-2 .hero-area-content,
 #home-3 .hero-area-content {
   padding-left: 80px;

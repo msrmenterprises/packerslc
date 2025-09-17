@@ -62,9 +62,7 @@
             <div class="container">
                 <div class="header-inner-box">
                     <!-- Logo -->
-                    <div class="logo">
-                        <a class="navbar-brand" href="index">Packers LC</a>
-                    </div>
+                    <?php include('utils/logo.php'); ?>
                     <!-- Main Menu  -->
                     <div class="main-menu d-none d-lg-block">
                         <?php include('utils/menu.php') ?>

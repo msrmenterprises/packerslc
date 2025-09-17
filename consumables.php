@@ -60,7 +60,7 @@
                 <div class="header-inner-box">
                     <!-- Logo -->
                     <div class="logo">
-                        <a class="navbar-brand" href="index">Packers LC</a>
+                        <?php include('utils/logo.php'); ?>
                     </div>
                     <!-- Main Menu  -->
                     <div class="main-menu d-none d-lg-block">

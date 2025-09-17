@@ -30,7 +30,7 @@
         <div class="navigation">
             <div class="container">
                 <div class="header-inner-box">
-                    <div class="logo"><a class="navbar-brand" href="index.html">Packers LC</a></div>
+                    <?php include('utils/logo.php'); ?>
                     <div class="main-menu d-none d-lg-block">
                         <?php include('utils/menu.php') ?>
                     </div>

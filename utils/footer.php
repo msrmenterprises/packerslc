@@ -2,9 +2,10 @@
             <div class="footer-up">
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12">
-                        <a href="index" class="logo">
+                        <!-- <a href="index" class="logo">
                             Packers LC Global
-                        </a>
+                        </a> -->
+                        <?php include('utils/logo.php'); ?>
                         <p>Operations in Mauritius, Cote D'Voir, Ghana, Namibia
 
                         </p>
