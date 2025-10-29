@@ -193,20 +193,20 @@ Excellence
                         
                         <h2>About Us</h2>
                     </div>
-                    <p>Packers LC is a multinational organization that serves Oil & Gas (offshore & onshore), Power plants & mining clients in West Africa and North America</p>
-                    <p>We have built a culture of thought leadership, commitment and service, with supply and services in the Energy sector (O&G, Electricity and Mining)</p>
-                    <p>We believe in active leadership, commitment and delivering excellence through the entire value chain. We fully embrace the responsibility of fostering close relationships with all our clients and partners</p>
+                    <p>Packers LC is a multinational organization serving clients in the Oil & Gas (offshore and onshore), Power, and Mining sectors across West Africa and North America.</p>
+                    <p>We have built a strong culture of thought leadership, commitment, and service, providing reliable supply and services in the energy sector, including Oil & Gas, Electricity, and Mining.</p>
+                    <p>We believe in active leadership, excellence, and integrity throughout the entire value chain. Our goal is to build strong, lasting relationships with all our clients and partners.</p>
                     
 
 <div class="about-feature">
                             <ul>
                                 
                                 
-                                <li>Packers LC is headquartered in Virginia with sister company in Ghana</li>
-                                <li>With valid Petroleum Commission License for the last 6 years</li>
-                                <li>Operations in Ghana, US and the UK</li>
-                                <li>OEM Representation and partnerships for products and services</li>
-                                <li>Sourcing desk in UK, USA, Dubai and India</li>
+                                <li>Headquartered in Virginia, USA, with a sister company in Ghana</li>
+                                <!-- <li>Licensed by the Petroleum Commission for the past six years</li> -->
+                                <li>Operations in Ghana, the United States, and the United Kingdom</li>
+                                <li>OEM representation and strategic partnerships for products and services</li>
+                                <li>Global sourcing desks located in the UK, USA, Dubai, and India</li>
                             </ul>
                         </div>
                   
@@ -238,13 +238,12 @@ Excellence
                             <ul>
                                 
                                 
-                                <li>Active and continuous training of local talent.</li>
-                                <li>Bringing state of art technology of products and service to the region</li>
-                                <li>Zero tolerance on quality and deliveries</li>
-                                <li>Growing a profitable, sustainable organization and providing optimum
-                                    returns to stake holders.
+                                <li>Ongoing training and development of local talent</li>
+                                <li>Bringing state-of-the-art technology, products, and services to the region</li>
+                                <li>Maintaining zero tolerance for defects and delays</li>
+                                <li>Building a profitable, sustainable organization that delivers optimal returns to stakeholders
                                     </li>
-                                <li>Being a responsible corporate citizen.
+                                <li>Acting as a responsible and ethical corporate citizen
                                 </li>
                             </ul>
                         </div>
