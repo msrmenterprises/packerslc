@@ -205,7 +205,7 @@ Excellence
                                 
                                 <li>Headquartered in Virginia, USA, with a sister company in Ghana</li>
                                 <!-- <li>Licensed by the Petroleum Commission for the past six years</li> -->
-                                <li>Operations in Ghana, the United States, and the United Kingdom</li>
+                                <li>Operations in the United States, Mauritius, Cote D'Ivoire, Ghana, and Namibia</li>
                                 <li>OEM representation and strategic partnerships for products and services</li>
                                 <li>Global sourcing desks located in the UK, USA, Dubai, and India</li>
                             </ul>
@@ -902,9 +902,7 @@ Excellence
                         <a href="index.html" class="logo">
                             Packers LC Global
                         </a>
-                        <p>Headquartered in Mauritius with Operations in Ghana , Cote D'Ivoire
-
-                        </p>
+                        <p>Headquartered in Mauritius with Operations in the United States, Mauritius, Cote D'Ivoire, Ghana, and Namibia</p>
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <h5>Office</h5>
