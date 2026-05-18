@@ -6,7 +6,7 @@
                             Packers LC Global
                         </a> -->
                         <?php include('utils/logo.php'); ?>
-                        <p>Operations in Mauritius, Cote D'Voir, Ghana, Namibia
+                        <p>Operations in the United States, Mauritius, Cote D'Ivoire, Ghana, and Namibia
 
                         </p>
                     </div>
