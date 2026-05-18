@@ -196,6 +196,7 @@ Excellence
                     <p>Packers LC is a multinational organization serving clients in the Oil & Gas (offshore and onshore), Power, and Mining sectors across West Africa and North America.</p>
                     <p>We have built a strong culture of thought leadership, commitment, and service, providing reliable supply and services in the energy sector, including Oil & Gas, Electricity, and Mining.</p>
                     <p>We believe in active leadership, excellence, and integrity throughout the entire value chain. Our goal is to build strong, lasting relationships with all our clients and partners.</p>
+                    <p>Packers LC is procurement and consulting company that supports oil and natural gas, industrial, pharmaceutical, water treatment, and process industry clients with sourcing, supply chain management, and technical procurement services. We work closely with OEMs, system integrators, and end users to provide high-quality components and services at competitive pricing.</p>
                     
 
 <div class="about-feature">
